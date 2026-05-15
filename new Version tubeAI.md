@@ -1,4 +1,4 @@
-Thinking genuinely from both seats.
+
 
 ---
 
