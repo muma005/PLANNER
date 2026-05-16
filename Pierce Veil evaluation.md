@@ -1,4 +1,4 @@
-
+.
 
 ## CORE PHILOSOPHY
 
@@ -359,6 +359,6 @@ Feature-level detail:
 | "Model selection chose complex models" but they don't help | Gate 2.3 — must beat simple linear baseline |
 | "The system runs" but produces different results each time | Gate 1.6 — determinism check |
 
----
+
 
 Ready to implement this as a self-contained evaluation module? Once we have data, this is the first thing that runs — before we celebrate anything.
